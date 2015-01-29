@@ -26,6 +26,7 @@ if (!empty($today)) {
 ?>
     </p>
     <hr>
-    <p style="font-size: 8pt">door Cas Ebbers - <a href="#">source</a></p>
+    <p style="font-size: 8pt">door Cas Ebbers - <a href="https://github.com/CasEbbers/sodexo" target="_blank">source</a></p>
   </body>
 </html>
+

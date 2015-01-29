@@ -16,3 +16,4 @@ pdf = Magick::ImageList.new(url)
 pdf.each_with_index do |page_img, i|
   page_img.write "www/#{DAYS_OF_WEEK[i]}.png"
 end
+
